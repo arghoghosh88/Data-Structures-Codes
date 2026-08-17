@@ -1,5 +1,4 @@
-:::writing{title="README.md - Data Structures and Algorithms in C++" id="48391"}
-# Data Structures and Algorithms in C++
+# Data Structures and Algorithms in C++ (CSE-222)
 
 This repository contains basic implementations of different **Data Structures and Algorithms** using **C++**. The purpose of this repository is to practice fundamental concepts like Trees, Stacks, Queues, Linked Lists, Sorting Algorithms, and Recursion.
 
@@ -69,10 +68,6 @@ This repository contains basic implementations of different **Data Structures an
   - File Handling (where applicable)
 
 ---
-
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone <repository-link>
+**Argho Ghosh
+CSE-56/5
+Department of CSE,BUBT**
